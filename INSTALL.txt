@@ -1,2 +1,4 @@
-1如果只是游玩，请下载安装包（Windows 64位）。
-2如果是想对游戏进行修改，请先移步到https://unity.cn/下载unity游戏引擎，如果想对游戏代码，脚本进行修改，请自行配置Csharp运行环境并下载相应的IDE（推荐Visual Studio Code，记得加入与unity模块）。
+1如果只想尝试玩游戏，请下载游玩.zip(indows 64位）。
+2如果是想对游戏进行修改，请先移步到https://unity.cn/下载unity游戏引擎
+如果想对游戏代码，脚本进行修改，请自行配置Csharp运行环境并下载相应的IDE
+（推荐Visual Studio Code，记得加入与unity模块）。
