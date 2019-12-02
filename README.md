@@ -1,9 +1,10 @@
 # 总结
 ## 1.安装
-1 如果只是游玩，请下载安装包（Windows 64位）。
+1 如果只是游玩，请下载安装包————“游戏.zip”（Windows 64位）。
 2 如果是想对游戏进行修改，请先移步到：https://unity.cn/
 下载unity游戏引擎，如果想对游戏代码，脚本进行修改
 请自行配置Csharp运行环境并下载相应的IDE（推荐Visual Studio Code，记得加入与unity模块）。
+并打包下载文件夹“游戏github”。
 ## 2.FAQ
 1.我的unity在将包导入后scene的canves不能将所有的画面包括。
        我们人为设置scene中的canves的x设为了900，根据个人硬件软件的不同，可能需要自行设置。
