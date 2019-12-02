@@ -41,4 +41,4 @@ magic77kid@qq.com
 最后欢迎大佬们对我们进行批评和指导（最好能加入我们QAQ）。
 ## 4.代码库
 历史代码库：https://github.com/srx-2000/game
-现代码库：https://github.com/srx-2000/open-source-game
+现代码库：https://github.com/srx-2000/open_source_game
